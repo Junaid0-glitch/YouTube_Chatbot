@@ -5,3 +5,5 @@ langchain-google-genai
 langchain-openai
 faiss-cpu
 python-dotenv
+langchain_experimental
+langchain_community
