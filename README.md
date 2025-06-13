@@ -74,19 +74,3 @@ This is a Streamlit-based app that allows users to ask questions about the conte
 - Make sure your API keys have access to **Google Generative AI** and **OpenAI embeddings**.
 
 ---
-
-## 📄 License
-
-MIT License. See `LICENSE` for more details.
-
----
-
-## 🤝 Contributing
-
-Feel free to fork the repo, submit issues, or make pull requests.
-
----
-
-## 🙋‍♂️ Questions?
-
-Open an issue or contact [your-email@example.com](mailto:your-email@example.com)
