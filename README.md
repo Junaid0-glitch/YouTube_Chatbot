@@ -3,6 +3,9 @@
 
 This is a Streamlit-based app that allows users to ask questions about the content of a YouTube video using its transcript. It uses LangChain, Gemini (Google Generative AI), OpenAI embeddings, and FAISS for semantic search.
 
+- App link https://youtubechatbot-aywvvwzfzuklibmgm2v7er.streamlit.app/
+
+
 ---
 
 ## 🚀 Features
@@ -74,3 +77,4 @@ This is a Streamlit-based app that allows users to ask questions about the conte
 - Make sure your API keys have access to **Google Generative AI** and **OpenAI embeddings**.
 
 ---
+![Screenshot 2025-06-13 161852](https://github.com/user-attachments/assets/5d8b1b17-2de5-4b49-b4ee-98c64a1e797f)
